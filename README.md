@@ -9,12 +9,10 @@ What this repo contains
 2. Builds **correlation heatmaps** by institutional **SIZE**  
 3. Produces **boxplots** of *Overall Score* across **SIZE × FOCUS**, with descriptive tables  
 4. Runs **PCA (FactoMineR)** by SIZE to reveal latent dimensions  
-5. Visualizes **variable contributions** to **PC1** and **PC2**Figures correspond to those in the companion manuscript:
+5. Visualizes **variable contributions** to **PC1** and **PC2**
 
-Fig 1A–1B: Correlation matrices (XL vs S).
-
-Fig 2: Boxplot of Overall Score across SIZE × FOCUS.
-
-Fig 3A–3B: PCA variable maps (XL vs S).
-
-Fig 4–5: Indicator contributions to PC1 and PC2 (XL and S).
+**Figures correspond to those in the mentioned manuscript:**
+1. Fig 1A–1B: Correlation matrices (XL vs S).
+2. Fig 2: Boxplot of Overall Score across SIZE × FOCUS.
+3. Fig 3A–3B: PCA variable maps (XL vs S).
+4. Fig 4–5: Indicator contributions to PC1 and PC2 (XL and S).
