@@ -36,3 +36,8 @@ What this repo contains
     - FOCUS
     - Research intensity (RES)
     - STATUS
+
+**Methods snapshot**
+- Correlation analysis of numerical indicators by SIZE groups.
+- Nonparametric comparisons: Boxplots + descriptive tables; post-hoc Dunn test with BH adjustment.
+- PCA (FactoMineR) per SIZE with factoextra visualizations; contribution bar charts highlight drivers of PC1/PC2.
