@@ -18,11 +18,7 @@ What this repo contains
 4. Fig 4–5: **Indicator contributions** to PC1 and PC2 (XL and S).
 
 **Data**
-
-Source: QS World University Rankings 2026 (publicly available scores + imputed fields).
-
-Scope: First 705 rows include Overall Score and are used in the core analyses.
-
-Indicators (scores, 0–100): Overall, Citations per Faculty, International Research Network, Academic Reputation, Employer Reputation, Faculty/Student, International Faculty, International Students, Employment Outcomes, Sustainability.
-
-Metadata: SIZE, FOCUS, Research intensity (RES), STATUS.
+- Source: QS World University Rankings 2026 (publicly from: https://www.topuniversities.com/world-university-rankings).
+- Scope: First 705 rows include Overall Score and are used in the core analyses.
+- Indicators (scores, 0–100): Overall, Citations per Faculty, International Research Network, Academic Reputation, Employer Reputation, Faculty/Student, International Faculty, International Students, Employment Outcomes, Sustainability.
+- Metadata: SIZE, FOCUS, Research intensity (RES), STATUS.
