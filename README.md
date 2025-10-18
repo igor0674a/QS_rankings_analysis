@@ -1,22 +1,15 @@
-# Unveiling Hidden Structures in QS World University Rankings (2026)
+## Unveiling Hidden Structures in QS World University Rankings (2026)
 
 **A reproducible R analysis exploring latent structures in the QS World University Rankings, 2026 edition — with notes of caution in interpretation.**
 
 What this repo contains
 
-End-to-end R workflow that:
-
-Loads and prepares QS indicator data (2026 edition, imputed).
-
-Builds correlation heatmaps by institutional SIZE.
-
-Produces boxplots of Overall Score across SIZE × FOCUS, with descriptive tables.
-
-Runs PCA (FactoMineR) by SIZE to reveal latent dimensions.
-
-Visualizes variable contributions to PC1/PC2.
-
-Figures correspond to those in the companion manuscript:
+**End-to-end R workflow that:**
+1. Loads and prepares **QS indicator data** (2026 edition, imputed)  
+2. Builds **correlation heatmaps** by institutional **SIZE**  
+3. Produces **boxplots** of *Overall Score* across **SIZE × FOCUS**, with descriptive tables  
+4. Runs **PCA (FactoMineR)** by SIZE to reveal latent dimensions  
+5. Visualizes **variable contributions** to **PC1** and **PC2**Figures correspond to those in the companion manuscript:
 
 Fig 1A–1B: Correlation matrices (XL vs S).
 
