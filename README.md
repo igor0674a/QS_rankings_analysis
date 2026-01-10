@@ -11,7 +11,7 @@ What this repo contains
 4. Ensures reproducibility by explicitly controlling the imputation methods, predictor matrix, and random seed used in the imputation process.  
 5. Exports a cleaned, imputed, analysis-ready dataset for use in subsequent multivariate analyses and figure generation.  
 
-**Data analysis (04_MFA_Academic_Rankings_v7_06Jan26)**
+**Data analysis (04_MFA_Academic_Rankings_v7)**
 
 1. Loads and prepares **QS indicator data** (2026 edition)  
 2. Builds **correlation heatmaps** by institutional **SIZE**  
